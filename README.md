@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NatalieBaoTramLe.
-- 👀 I’m interested in social and health policy.
+- 👀 I’m interested in health policy and public opinion.
 - 🌱 I’m currently learning Javascript, C++, and C#.
-- 💞️ I’m looking to collaborate on ... Let me get back to you on this as I'm still learning the possibilities of coding.
 - 📫 You can reach me via LinkedIn.
 
 <!---
